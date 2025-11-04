@@ -1,0 +1,23 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "My first steps in Electron",
+  "homepage": "https://github.com/vladyslavbiedariev-source/electron#readme",
+  "bugs": {
+    "url": "https://github.com/vladyslavbiedariev-source/electron/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladyslavbiedariev-source/electron.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "electron": "^39.0.0"
+  }
+}
