@@ -11,10 +11,11 @@
     "url": "git+https://github.com/vladyslavbiedariev-source/electron.git"
   },
   "license": "ISC",
-  "author": "",
+  "author": "Vladyslalv Biedariev",
   "type": "commonjs",
   "main": "main.js",
   "scripts": {
+    "start" : "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
