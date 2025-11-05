@@ -1,1 +1,1 @@
-console.log("Hello from Electron!");
+﻿console.log("Hello from Electron 👋");
